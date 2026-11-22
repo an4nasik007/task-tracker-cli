@@ -1,0 +1,28 @@
+
+# Compiled binaries
+/task-cli
+/task-cli.exe
+*.test
+*.out
+
+# Local task data
+/tasks.json
+
+# Temporary files
+tasks-*.tmp
+*.log
+
+# Test coverage
+coverage.out
+coverage.html
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.*
